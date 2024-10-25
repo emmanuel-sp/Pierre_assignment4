@@ -1,0 +1,51 @@
+Pierre_assignment4:
+total 8
+drwxr-xr-x. 3 myid  17 Nov  8 23:40 bin
+-rw-r--r--. 1 myid 597 Nov 18 12:38 README.txt
+-rw-r--r--. 1 myid   0 Nov 18 12:39 rec19220
+-rwxr--r--. 1 myid 140 Nov 15 23:38 script.sh
+drwxr-xr-x. 3 myid  25 Nov  8 22:50 src
+
+Pierre_assignment4/bin:
+total 0
+drwxr-xr-x. 4 myid 76 Nov 15 15:28 esp
+
+Pierre_assignment4/bin/esp:
+total 4
+drwxr-xr-x. 2 myid   35 Nov  8 23:40 controller
+-rw-r--r--. 1 myid 2577 Nov 16 10:36 SortDriver.class
+drwxr-xr-x. 2 myid   39 Nov  9 00:12 test
+
+Pierre_assignment4/bin/esp/controller:
+total 4
+-rw-r--r--. 1 myid 2391 Nov 16 10:36 Sorting.class
+
+Pierre_assignment4/bin/esp/test:
+total 4
+-rw-r--r--. 1 myid 684 Nov 15 14:48 SortingTest.class
+
+Pierre_assignment4/src:
+total 0
+drwxr-xr-x. 5 myid 93 Nov 18 12:27 esp
+
+Pierre_assignment4/src/esp:
+total 4
+drwxr-xr-x. 2 myid   34 Nov 18 12:33 controller
+drwxr-xr-x. 2 myid   78 Nov 15 21:40 inputs
+-rw-r--r--. 1 myid 2336 Nov 18 12:27 SortDriver.java
+drwxr-xr-x. 2 myid   38 Nov 15 14:48 test
+
+Pierre_assignment4/src/esp/controller:
+total 8
+-rw-r--r--. 1 myid 5198 Nov 18 12:33 Sorting.java
+
+Pierre_assignment4/src/esp/inputs:
+total 144
+-rw-r--r--. 1 myid 48890 Nov 15 16:01 ordered.txt
+-rw-r--r--. 1 myid 48890 Nov 15 16:35 random.txt
+-rw-r--r--. 1 myid 48890 Nov 15 21:40 reverse.txt
+
+Pierre_assignment4/src/esp/test:
+total 4
+-rw-r--r--. 1 myid 431 Nov 15 14:48 SortingTest.java
+/home/myid/esp48321/CSCI2720/Pierre_assignment4:/home/myid/csci-2720b
